@@ -3,7 +3,7 @@ Apache Kafka on Docker
 
 This repository holds a build definition and supporting files for building a
 [Docker] image to run [Kafka] in containers. It is published as an Automated
-Build [on Docker Hub], as `ches/kafka`.
+Build [on Docker Hub], as `tmg/kafka`.
 
 This build intends to provide an operator-friendly Kafka deployment suitable for
 usage in a production Docker environment:
